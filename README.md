@@ -17,3 +17,8 @@ This project is just for educational purposes and for those who want to learn Dj
 
 3. Install the required packages
 `pip3 install -r requirements.txt`
+
+4. To run the Django server
+`python3 manage.py runserver`
+
+5. Open your browser to the URL: `127.0.0.1:8000`
